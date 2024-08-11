@@ -81,7 +81,7 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 * [House Price Prediction](https://github.com/SaliuA/Housing-Price-Prediction)
 
 ### Summary :
-I applied Linear Regression, Random Forest Regressor, and XGBoost models to the dataset. Among these, XGBoost achieved the lowest RMSE of $23,000 and the highest R-squared of 0.9.
+I applied Linear Regression, Random Forest Regressor, and XGBoost models to the dataset. Among these, XGBoost achieved the lowest RMSE of $23,000 and the highest R-squared of 0.91.
 
 ### Built With
 

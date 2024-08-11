@@ -23,7 +23,7 @@ MSZoning: Identifies the general zoning classification of the sale.
        C	Commercial
        FV	Floating Village Residential
        I	Industrial
-       RH	Residential High Density
+       RH	Residential High Density 
        RL	Residential Low Density
        RP	Residential Low Density Park 
        RM	Residential Medium Density
@@ -32,7 +32,7 @@ LotFrontage: Linear feet of street connected to property
 
 LotArea: Lot size in square feet
 
-Street: Type of road access to property
+Street: Type of road acces  s to property
 
        Grvl	Gravel	
        Pave	Paved
@@ -162,7 +162,7 @@ OverallQual: Rates the overall material and finish of the house
        2	Poor
        1	Very Poor
 	
-OverallCond: Rates the overall condition of the house
+ : Rates the overall condition of the house
 
        10	Very Excellent
        9	Excellent

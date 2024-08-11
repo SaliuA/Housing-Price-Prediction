@@ -1,15 +1,19 @@
 # House Price Prediction
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
-# Introduction:
-The real estate market is complex and dynamic, with numerous factors influencing the prices of homes. Understanding these factors and accurately predicting house prices is crucial for buyers, sellers, real estate agents, and investors. Our House Price Prediction Model is designed to provide reliable price estimates for homes based on a comprehensive set of features.
+ 
+### Introduction:
+
+The real estate market is complex and ever-changing, with various factors impacting home prices. Accurately predicting these prices is essential for buyers, sellers, real estate agents, and investors. The House Price Prediction Model is designed to offer reliable price estimates based on a comprehensive set of features, enabling real estate companies to accurately value properties for sale.
 
 ### Problem Statement:
-Accurately predicting house prices is a critical challenge in the real estate market, influenced by a multitude of factors including dwelling types, zoning classifications, lot features, property conditions, and sale conditions. Traditional methods of property valuation often rely on limited data and subjective assessments, leading to inconsistencies and inaccuracies. This creates uncertainty for various stakeholders such as home buyers, sellers, real estate agents, and investors, potentially resulting in financial losses and inefficient market operations.
+
+Accurately predicting house prices is a significant challenge in the real estate market, shaped by numerous factors like dwelling types, zoning classifications, lot features, property conditions, and sale conditions. Traditional property valuation methods often depend on limited data and subjective judgments, leading to inconsistencies and inaccuracies. This uncertainty can impact various stakeholders, including home buyers, sellers, real estate agents, and investors, potentially causing financial losses and inefficiencies for the real estate company.
 
 
 ### Objective:
-To address these challenges, our goal is to develop a robust House Price Prediction Model that leverages advanced machine learning techniques to analyze a comprehensive set of property features and market data with an accuracy target of 85%. This model aims to provide accurate, data-driven price predictions that can be used by various stakeholders to make informed decisions in the real estate market.
+
+To overcome these challenges, our objective is to create a robust House Price Prediction Model using advanced machine learning techniques to analyze a wide range of property features and market data. We aim to achieve an overall accuracy of 85%, with a maximum difference of $25,000 between actual and predicted prices. This model is designed to deliver precise, data-driven price predictions, empowering stakeholders to make well-informed decisions in the real estate market.
 
 
 ### In this notebook, we aim to answer several Key Questions for Gaining Insights into House prices:
@@ -73,7 +77,6 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
  </a>
 
-
 ### This project also serves as a capstone project for the Data Science Diploma at AltSchool.
 * [Alt school Data science](https://altschoolafrica.com/)
 
@@ -81,7 +84,7 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 * [House Price Prediction](https://github.com/SaliuA/Housing-Price-Prediction)
 
 ### Summary :
-I applied Linear Regression, Random Forest Regressor, and XGBoost models to the dataset. Among these, XGBoost achieved the lowest RMSE of $23,000 and the highest R-squared of 0.91.
+Linear Regression, Random Forest Regressor, and XGBoost models were developed for the dataset. Among them, XGBoost outperformed the others, achieving the lowest RMSE of $23,000 and the highest R-squared of 0.91.
 
 ### Built With
 
